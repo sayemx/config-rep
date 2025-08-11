@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to Accounts app of prod"
+  message: "Welcome to production accounts"
   contactDetails:
     name: Prod Profile
     email: "{cipher}9088a9aaabb67d48b72e9366aa1893c8ebcc419b5e331ad718f7c4d1b2b9af9e24c9fd0e1391b35ed8e023bfa3e9b3f5"
